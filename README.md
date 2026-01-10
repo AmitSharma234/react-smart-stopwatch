@@ -54,7 +54,7 @@ This project is suitable for **learning hooks**, **interview preparation**, and 
 ## 📂 Project Structure
 react-smart-stopwatch/
 ├─ src/
-│ ├─ App.jsx # Stopwatch component
+│ ├─ App.jsx 
 │ ├─ main.jsx
 │ └─ index.css
 ├─ public/
