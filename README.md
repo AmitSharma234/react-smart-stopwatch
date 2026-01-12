@@ -36,7 +36,7 @@ This project is suitable for **learning hooks**, **interview preparation**, and 
 ## 🛠 Tech Stack
 
 - **React** (Functional Components & Hooks)
-- **Vite** (Fast build tool)
+- **Vite** (Fast Build Tool)
 - **JavaScript (ES6+)**
 - **Inline Styling / Modern UI patterns**
 
