@@ -29,7 +29,7 @@ This project is suitable for **learning hooks**, **interview preparation**, and 
 - 🧠 Proper use of `useState`, `useRef`, and `useEffect`
 - 🛡 Prevents multiple intervals & memory leaks
 - 🎨 Modern, dark-themed UI
-- ⚡ Fast development with Vite 
+- ⚡ Fast development with Vite + HMR
 
 ---
 
