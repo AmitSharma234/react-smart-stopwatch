@@ -27,7 +27,7 @@ This project is suitable for **learning hooks**, **interview preparation**, and 
 - ⏱ Real-time stopwatch functionality
 - ▶️ Start, ⏸ Pause, 🔄 Reset controls
 - 🧠 Proper use of `useState`, `useRef`, and `useEffect`
-- 🛡 Prevents multiple intervals & memory leaks
+- 🛡 Prevents multiple intervals , memory leaks
 - 🎨 Modern, dark-themed UI
 - ⚡ Fast development with Vite + HMR
 
