@@ -76,8 +76,8 @@ react-todo-app/
 │
 ├─ .gitignore
 ├─ package.json
-├─ LICENSE                   # MIT or similar for open-source (recommended)
-├─ README.md                 # project usage, setup, demo instructions
-└─ .env.example              # sample environment variables (optional)
+├─ LICENSE                  
+├─ README.md                 
+└─ .env.example              
 
 ---
