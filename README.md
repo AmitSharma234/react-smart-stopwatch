@@ -68,7 +68,7 @@ react-todo-app/
 │  ├─ utils/                 # helper functions (e.g. storage utils)
 │  ├─ App.jsx
 │  ├─ main.jsx
-│  └─ router.jsx             # if using React Router (optional)
+│  └─ router.jsx             
 │
 ├─ public/
 │  ├─ vite.svg / favicon.ico
