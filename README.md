@@ -62,7 +62,7 @@ react-todo-app/
 │  │  └─ TodoItem.jsx
 │  ├─ hooks/                 # custom hooks (e.g. useTodos.jsx) optional
 │  ├─ context/               # React context providers (optional)
-│  ├─ styles/                # CSS m or 
+│  ├─ styles/                
 │  │  ├─ index.css
 │  │  └─ components.css
 │  ├─ utils/                 
