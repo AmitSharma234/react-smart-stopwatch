@@ -55,7 +55,7 @@ This project is suitable for **learning hooks**, **interview preparation**, and 
 
 react-todo-app/
 ├─ src/
-│  ├─ assets/                #
+│  ├─ assets/                
 │  ├─ components/
 │  │  ├─ TodoInput.jsx
 │  │  ├─ TodoList.jsx
