@@ -60,7 +60,7 @@ react-todo-app/
 │  │  ├─ TodoInput.jsx
 │  │  ├─ TodoList.jsx
 │  │  └─ TodoItem.jsx
-│  ├─ hooks/                 # custom hooks 
+│  ├─ hooks/                 
 │  ├─ context/                
 │  ├─ styles/                
 │  │  ├─ index.css
