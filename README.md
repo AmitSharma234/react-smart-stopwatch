@@ -79,5 +79,4 @@ react-todo-app/
 ├─ LICENSE                  
 ├─ README.md                 
 └─ .env.example              
-
 ---
